@@ -1,4 +1,5 @@
 Funcionalidades do Projeto
+
 Adicionar nomes: Os usuários escreverão o nome de um amigo em um campo de texto e o adicionarão a uma lista visível ao clicar em "Adicionar".
 
 Validar entrada: Se o campo de texto estiver vazio, o programa exibirá um alerta solicitando um nome válido.
