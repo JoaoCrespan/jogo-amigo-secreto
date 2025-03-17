@@ -1,9 +1,16 @@
-Funcionalidades do Projeto
+# Jogo de Amigo Secreto
 
-Adicionar nomes: Os usuários escreverão o nome de um amigo em um campo de texto e o adicionarão a uma lista visível ao clicar em "Adicionar".
+Este jogo é um desafio proposto no curso de lógica de programação na plataforma **Alura**.
+O jogo consiste em sortear nomes aleatoriamente para dar presentes uns aos outros.
 
-Validar entrada: Se o campo de texto estiver vazio, o programa exibirá um alerta solicitando um nome válido.
+## Funcionalidades
 
-Visualizar a lista: Os nomes inseridos aparecerão em uma lista abaixo do campo de entrada.
+- Adicionar participantes ao sorteio.
+- Garantir que um participante não tire a si mesmo.
+- Exibir o resultado do sorteio.
+- Validação de entrada para garantir que os nomes não sejam duplicados.
 
-Sorteio aleatório: Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
+## Tecnologias utilizadas
+- HTML
+- CSS
+- JavaScript
