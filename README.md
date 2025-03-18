@@ -1,9 +1,10 @@
-# Jogo de Amigo Secreto
+# 🕹 Jogo de Amigo Secreto
 
-Este jogo é um desafio proposto no curso de lógica de programação na plataforma **Alura**.
-O jogo consiste em sortear nomes aleatoriamente para dar presentes uns aos outros.
+Este jogo é um desafio proposto no curso de lógica de programação da plataforma de estudos **Alura**.
 
-## Funcionalidades
+O jogo consiste em sortear nomes aleatórios para sorteio de amigo secreto.
+
+## 🚀 Funcionalidades
 
 - Adicionar participantes ao sorteio.
 - Garantir que um participante não tire a si mesmo.
